@@ -73,5 +73,5 @@ Aplicación de escritorio para Windows en un solo ejecutable: no requiere instal
 
 ## 📬 ¿La quieres en tu IPS?
 
-Escríbenos a **[nexxtiasoluciones@gmail.com](mailto:nexxtiasoluciones@gmail.com)** y te mostramos cómo
+Escríbenos a **[nexxtiasolutions@gmail.com](mailto:nexxtiasolutions@gmail.com)** y te mostramos cómo
 corrige tus propios archivos FURIPS.
