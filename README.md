@@ -5,6 +5,11 @@
   Validador en tiempo real según la <b>Circular 0000022</b> · Lee la respuesta de ADRES (<code>.est</code>) · Copias de respaldo automáticas
 </p>
 
+<p align="center">
+  <img src="docs/validador.png" alt="Validador en tiempo real sobre un archivo FURIPS 1" width="860">
+</p>
+<p align="center"><sub>Capturas con datos de ejemplo ficticios.</sub></p>
+
 ---
 
 ## 😩 El problema
@@ -26,6 +31,8 @@ corrección rompe otra regla, y volver a radicar.
 4. **Vista combinada FURIPS 1 + 2** para revisar una factura completa en una sola pantalla.
 5. **Descarga el archivo corregido** y un informe de hallazgos en Excel o CSV.
    Si quedan errores, la herramienta te avisa antes de descargar.
+
+<p align="center"><img src="docs/vista-combinada.png" alt="Vista combinada de una factura con sus inconsistencias marcadas" width="760"></p>
 
 ## 🛟 Sin miedo a perder el trabajo
 
