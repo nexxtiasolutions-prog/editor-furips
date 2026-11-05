@@ -12,14 +12,14 @@
 
 ---
 
-## 😩 El problema
+##  El problema
 
 Los archivos FURIPS 1 y FURIPS 2 se arman a mano o se exportan del sistema con errores
 que nadie ve hasta que ADRES responde con un archivo de rechazos. Entonces toca buscar
 factura por factura, corregir en un editor de texto o en Excel, sin saber si la
 corrección rompe otra regla, y volver a radicar.
 
-## ✅ La solución
+##  La solución
 
 1. **Carga FURIPS 1 y FURIPS 2** y trabájalos como una tabla: buscar por factura,
    documento o nombre, filtrar, ordenar y editar con un clic.
@@ -32,7 +32,7 @@ corrección rompe otra regla, y volver a radicar.
 5. **Descarga el archivo corregido** y un informe de hallazgos en Excel o CSV.
    Si quedan errores, la herramienta te avisa antes de descargar.
 
-## 🧭 Recorrido por los módulos
+##  Recorrido por los módulos
 
 ### 1. FURIPS 1: reclamación con validador en tiempo real
 Cada campo se revisa contra la Circular 0000022 mientras editas. Las fechas se corrigen solas al formato DD/MM/AAAA y lo que no cumple queda marcado en rojo.
